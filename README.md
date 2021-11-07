@@ -1,13 +1,13 @@
-### Profile
+# Profile
 
-# Olá, eu nãoexisto!
-# Programando em javascript, python, typescript, java e kotlin.
-# Não tenho nome.
-# Não tenho idade.
-# Apenas não existo.
+・ Olá, eu nãoexisto!
+・ Programando em javascript, python, typescript, java e kotlin.
+・ Não tenho nome.
+・Não tenho idade.
+・ Apenas não existo.
 
 
-### MEUS PACKAGES NPM 
+# MEUS PACKAGES NPM 
 
 
 ## discord-bot-creation
