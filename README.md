@@ -6,6 +6,10 @@
 - ⭐ Não tenho idade.
 - ⭐ Apenas não existo.
 
+[![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A3o-existo-375b1721a/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dxxm6xmXeT)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
+
 ---
 | ![Stats](https://github-readme-stats.vercel.app/api?username=naoexistobb&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=151515&include_all_commits=true&hide_border=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoexistobb&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=151515&hide_border=true) |
 | ------------- | ------------- |
