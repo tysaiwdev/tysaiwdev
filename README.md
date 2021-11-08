@@ -1,7 +1,7 @@
 # Profile
 
 ### Olá, eu nãoexisto!
-- ⭐Programando em javascript, python, typescript, java e kotlin.
+- ⭐Programando basicamente quase 24 por dia.
 - ⭐ Não tenho nome.
 - ⭐ Não tenho idade.
 - ⭐ Apenas não existo.
