@@ -6,7 +6,6 @@
 - ⭐ Não tenho idade.
 - ⭐ Apenas não existo.
 
-
 ---
 | ![Stats](https://github-readme-stats.vercel.app/api?username=naoexistobb&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=151515&include_all_commits=true&hide_border=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoexistobb&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=151515&hide_border=true) |
 | ------------- | ------------- |
@@ -20,12 +19,14 @@
 
 
 ## discord-bot-creation
+[![NPM](https://nodei.co/npm/discord-bot-creation.png)](https://nodei.co/npm/discord-bot-creation/)
 ```js
 npm install discord-bot-creation
 yarn add discord-bot-creation (se você estiver usando yarn)
 ```
 
 ##  bot-creator-v12
+[![NPM](https://nodei.co/npm/bot-creator-v12.png)](https://nodei.co/npm/bot-creator-v12/)
 
 ```js
 npm install bot-creator-v12
@@ -33,6 +34,7 @@ yarn add bot-creator-v12 (se você estiver usando yarn)
 ```
 
 ## site-easy
+[![NPM](https://nodei.co/npm/site-easy.png)](https://nodei.co/npm/site-easy/)
 
 ```js
 npm install site-easy
