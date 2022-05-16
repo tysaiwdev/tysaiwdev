@@ -17,7 +17,6 @@
 # Discord
 
 ![Discord](https://discord.c99.nl/widget/theme-1/461346834342739978.png)
-![Banner](https://discordapp.com/api/guilds/905313423007567894/widget.png?style=banner2)
 
 
 # Formações
@@ -34,28 +33,3 @@
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
 
-# MEUS PACKAGES NPM 
-
-
-## discord-bot-creation
-[![NPM](https://nodei.co/npm/discord-bot-creation.png)](https://nodei.co/npm/discord-bot-creation/)
-```js
-npm install discord-bot-creation
-yarn add discord-bot-creation (se você estiver usando yarn)
-```
-
-##  bot-creator-v12
-[![NPM](https://nodei.co/npm/bot-creator-v12.png)](https://nodei.co/npm/bot-creator-v12/)
-
-```js
-npm install bot-creator-v12
-yarn add bot-creator-v12 (se você estiver usando yarn)
-```
-
-## site-easy
-[![NPM](https://nodei.co/npm/site-easy.png)](https://nodei.co/npm/site-easy/)
-
-```js
-npm install site-easy
-yarn add site-easy (se você estiver usando yarn)
-```
