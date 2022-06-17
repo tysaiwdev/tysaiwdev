@@ -18,7 +18,7 @@
 | ------------- | ------------- |
 
 # Discord
-   [![Discord Presence](https://lanyard.cnrad.dev/api/947856944515936306)](https://discord.com/users/947856944515936306) [![Discord Presence](https://lanyard.cnrad.dev/api/960713584436973589)](https://discord.com/users/960713584436973589)
+[![Discord Presence](https://lanyard.cnrad.dev/api/960713584436973589)](https://discord.com/users/960713584436973589)
 
 
 # Formações
