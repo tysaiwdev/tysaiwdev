@@ -17,9 +17,6 @@
 | ![Stats](https://github-readme-stats.vercel.app/api?username=naoexistobb&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=151515&include_all_commits=true&hide_border=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoexistobb&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=151515&hide_border=true) |
 | ------------- | ------------- |
 
-# Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/960713584436973589)](https://discord.com/users/960713584436973589)
-
 
 # Formações
 
