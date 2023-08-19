@@ -1,4 +1,4 @@
-![naoexisto](./files/naoexisto_logo.png)
+![naoexisto](./files/tysaiw_logo.png)
 
 - ⭐Programando basicamente quase 24 por dia.
 - ⭐ Não tenho nome.
