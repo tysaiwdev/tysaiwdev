@@ -1,6 +1,5 @@
-# Profile
+![Texto Alternativo](./files/naoexisto_logo.png)
 
-### Olá, eu nãoexisto!
 - ⭐Programando basicamente quase 24 por dia.
 - ⭐ Não tenho nome.
 - ⭐ Não tenho idade.
