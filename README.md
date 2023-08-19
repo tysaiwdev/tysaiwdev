@@ -1,4 +1,4 @@
-![Texto Alternativo](./files/naoexisto_logo.png)
+![naoexisto](./files/naoexisto_logo.png)
 
 - ⭐Programando basicamente quase 24 por dia.
 - ⭐ Não tenho nome.
@@ -38,4 +38,6 @@
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
+
+![barrinha](./files/barrinha.png)
 
