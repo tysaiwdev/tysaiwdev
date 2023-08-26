@@ -1,7 +1,7 @@
 
 <img width="600%" src="./files/tysaiw_logo.png">
 <p align="center">
-  <a href="https://www.youtube.com/@tysaiw"><img width="12%" alt="Youtube" title="Youtube" src="./files/youtube.png"/></a>
+  <a href="https://www.youtube.com/@tysaiw"><img width="10%" alt="Youtube" title="Youtube" src="./files/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/7gaby.maduro"><img width="10%" alt="Instagram" title="Instagram" src="./files/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
