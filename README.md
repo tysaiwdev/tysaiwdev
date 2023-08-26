@@ -5,7 +5,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/7gaby.maduro"><img width="10%" alt="Instagram" title="Instagram" src="./files/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/bpVsm5ASjS"><img width="10%" alt="LinkedIn" title="Discord" src="./files/discord.png"/></a>
+  <a href="https://discord.gg/bpVsm5ASjS"><img width="10%" alt="Discord" title="Discord" src="./files/discord.png"/></a>
   <br>
   My name is Tysaiw but you can call me moon, I'm 19 years old, I'm a programming student and I live in New York.
 </p>
