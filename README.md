@@ -10,8 +10,9 @@
   My name is Tysaiw but you can call me moon, I'm 19 years old, I'm a programming student and I live in New York.
 </p>
 
-- ⭐Programming basically almost 24 hours a day.
-- 
+- ⭐ Programming basically almost 24 hours a day.
+- ⭐ I don't express any kind of feeling, I just like to code
+  
 ### Stats
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=tysaiwdev&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=151515&include_all_commits=true&hide_border=true&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tysaiwdev&count_private=true&show_icons=true&layout=compact&title_color=246bced&text_color=ffffff&bg_color=151515&hide_border=true) |
