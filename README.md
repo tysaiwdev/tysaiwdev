@@ -1,5 +1,5 @@
 
-<img width="600%" src="./files/tysaiw_logo.png">
+
 <p align="center">
   <a href="https://www.youtube.com/@tysaiw"><img width="10%" alt="Youtube" title="Youtube" src="./files/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
