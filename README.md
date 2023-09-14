@@ -1,9 +1,9 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@tysaiw"><img width="10%" alt="Youtube" title="Youtube" src="./files/youtube.png"/></a>
+  <a href="https://www.youtube.com/"><img width="10%" alt="Youtube" title="Youtube" src="./files/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/7gaby.maduro"><img width="10%" alt="Instagram" title="Instagram" src="./files/instagram.png"/></a>
+  <a href="https://www.instagram.com/"><img width="10%" alt="Instagram" title="Instagram" src="./files/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/bpVsm5ASjS"><img width="10%" alt="Discord" title="Discord" src="./files/discord.png"/></a>
   <br>
