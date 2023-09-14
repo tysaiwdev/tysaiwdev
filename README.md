@@ -7,7 +7,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/bpVsm5ASjS"><img width="10%" alt="Discord" title="Discord" src="./files/discord.png"/></a>
   <br>
-  My name is Tysaiw but you can call me moon, I'm 19 years old, I'm a programming student and I live in New York.
+  My name is Tysaiw but you can call me moon, I'm 19 years old, I'm a programming student.
 </p>
 
 - ⭐ Programming basically almost 24 hours a day.
