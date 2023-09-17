@@ -1,15 +1,3 @@
-
-
-<p align="center">
-  <a href="https://www.youtube.com/"><img width="10%" alt="Youtube" title="Youtube" src="./files/youtube.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/"><img width="10%" alt="Instagram" title="Instagram" src="./files/instagram.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/bpVsm5ASjS"><img width="10%" alt="Discord" title="Discord" src="./files/discord.png"/></a>
-  <br>
-  My name is Tysaiw but you can call me moon, I'm 19 years old, I'm a programming student.
-</p>
-
 - ⭐ Programming basically almost 24 hours a day.
 - ⭐ I don't express any kind of feeling, I just like to code
   
@@ -40,4 +28,3 @@
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
 
-<img width="600%" src="./files/tysaiw_logo.png">
